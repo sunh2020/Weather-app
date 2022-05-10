@@ -71,3 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ![image](https://user-images.githubusercontent.com/39842892/167349670-157d02ec-0283-4dcf-b8a0-12e914cd183b.png)
+
+
+5/9/2020 Updated (changed to fahrenheit)
+![image](https://user-images.githubusercontent.com/39842892/167546121-5e4eb05e-4c90-4110-a703-336a629ca104.png)
+
